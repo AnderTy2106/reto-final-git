@@ -1,1 +1,2 @@
 Escribe según el siguiente formato: Nombres - Apellidos - Edad - Lenguaje Favorito - En qué te quieres desarrollar
+Ariana Mia - Canales De la Cruz - 20 - Python - Análisis de datos
