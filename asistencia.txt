@@ -1,4 +1,3 @@
 Escribe según el siguiente formato: Nombres - Apellidos - Edad - Lenguaje Favorito - En qué te quieres desarrollar
 Danfer Marcelo - Oré Martínez - 20 - Python - Ingeniería de Datos / Analista de Datos
 Ariana Mia - Canales De la Cruz - 20 - Python - Análisis de datos
-ERROR_CRITCO_SISTEMA_CAIDO
